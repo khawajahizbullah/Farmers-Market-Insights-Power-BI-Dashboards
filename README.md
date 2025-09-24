@@ -69,8 +69,14 @@ Open the .pbix file in Power BI Desktop.
 Explore dashboards using slicers and interactive visuals.
 
 <h3>📷 Dashboard Preview</h3>
+<p>Combined_Analysis.png</p>
+<img width="636" height="361" alt="Combined_Analysis" src="https://github.com/user-attachments/assets/c4aece04-eb5f-45bd-9779-06f85d7e3b66" />
 
-Quantity_Analysis.png, Sales_Analysis.png, Combined_Analysis.png
+<p>Quantity_Analysis.png</p>
+<img width="628" height="357" alt="Quantity_Analysis" src="https://github.com/user-attachments/assets/64acc3f5-e907-41a4-b9e2-d5d9fa39f1cc" />
+
+<p>Sales_Analysis.png</p>
+<img width="627" height="359" alt="Sales_Analysis" src="https://github.com/user-attachments/assets/9018dcbd-652b-4ec7-ba95-e72a3f38d5f3" />
 
 <h3>👨‍💻 Author</h3>
 
